@@ -111,5 +111,5 @@ async def f(ctx):
     await ctx.send("Exiting...")
     await client.close()
 
-TOKEN = "MTIzNzc0ODQ2NTExMTUzMTU1MQ.GxuOcC.ipHRpOXTs9Q29hCis82pH7Y2XGmOsyQD3xeuZI"
+TOKEN = "MTU2OTkwMTEyMDE2MjM2NTU3NA.GR2e5y.vLV4M0Ve_TdU7Z4qjKXb1J5-pvIhwtzq0ykfuM"
 client.run(TOKEN)
